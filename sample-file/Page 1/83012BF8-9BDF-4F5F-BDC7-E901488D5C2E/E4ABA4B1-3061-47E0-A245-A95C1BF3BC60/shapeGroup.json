@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 149,
-    "width": 572,
-    "x": 73,
-    "y": 114
+    "height": 243,
+    "width": 172,
+    "x": 65,
+    "y": 61
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -62,10 +62,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.3503401360544218,
-          "green": 0.3503401360544218,
-          "red": 0.3503401360544218
+          "alpha": 0.2,
+          "blue": 0.7853688350340136,
+          "green": 0.7853688350340136,
+          "red": 0.7853688350340136
         },
         "fillType": 0,
         "isEnabled": true,
